@@ -6,6 +6,7 @@
   <div class="container context">
     <router-view key="this.$route.fullPath"></router-view>
   </div>
+    <Footer></Footer>
   </div>
 </template>
 
@@ -14,8 +15,9 @@
 </style>
 <script>
 import Header from "@/componments/Layout/Header";
+import Footer from "@/componments/Layout/Footer";
 export default {
   name: 'app',
-  components: {Header}
+  components: {Footer, Header}
 }
 </script>
