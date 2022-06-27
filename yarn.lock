@@ -3061,6 +3061,11 @@
   "resolved" "https://registry.npmmirror.com/cyclist/-/cyclist-1.0.1.tgz"
   "version" "1.0.1"
 
+"darkreader@^4.9.51":
+  "integrity" "sha512-GdvcCv8w6SEr7m9m8qEm7u55i5xPsfOahjRHPH33gTbG6KvJl/WXTK93MyVJRHRGtrgyapvrnC5fm2gYNbHQFQ=="
+  "resolved" "https://registry.npmmirror.com/darkreader/-/darkreader-4.9.51.tgz"
+  "version" "4.9.51"
+
 "dashdash@^1.12.0":
   "integrity" "sha512-jRFi8UDGo6j+odZiEpjazZaWqEal3w/basFjQHQEwVtZJGDpxbH1MeYluwCS8Xq5wmLJooDlMgvVarmWfGM44g=="
   "resolved" "https://registry.npmmirror.com/dashdash/-/dashdash-1.14.1.tgz"
@@ -5616,6 +5621,11 @@
   "version" "4.0.1"
   dependencies:
     "path-key" "^3.0.0"
+
+"nprogress@^0.2.0":
+  "integrity" "sha512-I19aIingLgR1fmhftnbWWO3dXc0hSxqHQHQb3H8m+K3TnEn/iSeTZZOyvKXWqQESMwuUVnatlCnZdLBZZt2VSA=="
+  "resolved" "https://registry.npmmirror.com/nprogress/-/nprogress-0.2.0.tgz"
+  "version" "0.2.0"
 
 "nth-check@^1.0.2":
   "integrity" "sha512-WeBOdju8SnzPN5vTUJYxYUxLeXpCaVP5i5e0LF8fg7WORF2Wd7wFX/pk0tYZk7s8T+J7VLy0Da6J1+wCT0AtHg=="
