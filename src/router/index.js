@@ -25,7 +25,14 @@ const routes = [
     path: '*',
     redirect: '/404',
     hidden: true
-  }
+  },
+  // 登录
+  {
+    name: 'login',
+    path: '/login',
+    component: () => import('@/views/auth/Login'),
+    meta: { title: '登录' }
+  },
 ]
 
 const router = new VueRouter({
